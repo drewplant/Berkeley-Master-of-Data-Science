@@ -3,7 +3,7 @@
 
 ## Classes
    * [Capstone](#210-synthetic-capstone-project)
-   * [NLP](#266 Natural Language Processing with Deep Learning Project - Fall 2016)
+   * [NLP](#266-natural-language-processing-with-deep-learning-project---fall-2016)
    * [Data Viz](#241 Data Visualization Project - Spring 2016)
    * [Machine Learning](#207 Machine Learning Project- Fall 2015)
    * [Data Storage & Retrieval](#205 Data Storage and Retrieval Project - Fall 2015)
