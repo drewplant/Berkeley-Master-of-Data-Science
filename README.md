@@ -2,7 +2,7 @@
 <i>Projects page for Drew Plant -- summer 2017 MIDS graduate</i>
 
 ## Classes
-[Capstone](#210 Synthetic Capstone Project)
+   * [Capstone](#210 synthetic capstone project)
    * [NLP](#266 Natural Language Processing with Deep Learning Project - Fall 2016)
    * [Data Viz](#241 Data Visualization Project - Spring 2016)
    * [Machine Learning](#207 Machine Learning Project- Fall 2015)
