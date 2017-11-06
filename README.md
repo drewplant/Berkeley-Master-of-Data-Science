@@ -1,10 +1,10 @@
 # Berkeley-Master-of-Data-Science
- * Projects page for Drew Plant <i>summer 2017 MIDS graduate</i>
+<i>Projects page for Drew Plant -- summer 2017 MIDS graduate</i>
 
 ## Classes
 
 ### 210 Synthetic Capstone Project (Summer 2017)
-[]()
+[Top](#berkeley-master-of-data-science)
 
 ### 266 Natural Language Processing with Deep Learning Project (Fall 2016)
 [Essay Scoring with Grammatical Error Detection]()
