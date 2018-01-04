@@ -4,6 +4,6 @@ This class dealt with traditional language models (Knesser-Ney smoothing models,
 
 My project focused on use of an LSTM RNN to categorize student essay words into grammatical errors.
 
-The paper is here:  [Essay Scoring with Grammatical Error Detection](./Essay Scoring with Grammatical Error Detection.pdf)
+The paper is here:  [Essay Scoring with Grammatical Error Detection](./EssayScoringwithGrammaticalErrorDetection.pdf)
 
 I'm also currently a teaching assistant for the class!
