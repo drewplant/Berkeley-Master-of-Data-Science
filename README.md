@@ -12,7 +12,7 @@
    * [Top](#berkeley-master-of-data-science)
 
 ### 266 Natural Language Processing with Deep Learning Project - Fall 2016
-[Essay Scoring with Grammatical Error Detection]()
+[Essay Scoring with Grammatical Error Detection](NLP_Class/EssayScoringwithGrammaticalErrorDetection.pdf)
    * [Top](#berkeley-master-of-data-science)
 
 ### 209 Data Visualization Project - Spring 2016
