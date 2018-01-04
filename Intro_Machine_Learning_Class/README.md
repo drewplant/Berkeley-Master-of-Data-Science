@@ -1,1 +1,1 @@
-# 207 Machine Learning Project- Fall 2015
+# W207 Machine Learning - Fall 2015

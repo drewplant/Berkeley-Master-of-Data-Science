@@ -1,1 +1,1 @@
-# 205 Data Storage and Retrieval Project - Fall 2015
+# W205 Data Storage and Retrieval - Fall 2015

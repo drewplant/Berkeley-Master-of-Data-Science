@@ -1,4 +1,4 @@
-# 266 Natural Language Processing and Deep Learning - Fall 2016
+# W266 Natural Language Processing and Deep Learning - Fall 2016
 
 This class dealt with traditional language models (Knesser-Ney smoothing models, constituency parsing, parts-of-speech modeling, dependency parsing, CYK and Viterbi algorithms for POS modeling) as well as neural-net based models (RNN's, LSTM RNN's, CNN's.)
 
